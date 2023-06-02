@@ -4,3 +4,16 @@ all related resources about LLM，pretraining，finetuning，and data preparatio
 ## practise
 - [LLMsPracticalGuide](https://github.com/Mooler0410/LLMsPracticalGuide)
 - [personalized AI Tutor](https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor)
+
+## GPT related
+- [Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT)
+- [gpt4free](https://github.com/xtekky/gpt4free)
+- [AgentGPT](https://github.com/reworkd/AgentGPT)
+- [Text-Prompted Generative Audio Model](https://github.com/suno-ai/bark)
+- [MiniGPT-4](https://github.com/Vision-CAIR/MiniGPT-4)
+- [chatgpt-retrieval-plugin](https://github.com/openai/chatgpt-retrieval-plugin)
+- [gpt4-pdf-chatbot-langchain](https://github.com/mayooear/gpt4-pdf-chatbot-langchain)
+- [MOSS](https://github.com/OpenLMLab/MOSS)
+- [dolly](https://github.com/databrickslabs/dolly)
+- [pdfGPT](https://github.com/bhaskatripathi/pdfGPT)
+- [Auto-GPT-ZH](https://github.com/kaqijiang/Auto-GPT-ZH)
