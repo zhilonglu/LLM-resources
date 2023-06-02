@@ -17,3 +17,8 @@ all related resources about LLM，pretraining，finetuning，and data preparatio
 - [dolly](https://github.com/databrickslabs/dolly)
 - [pdfGPT](https://github.com/bhaskatripathi/pdfGPT)
 - [Auto-GPT-ZH](https://github.com/kaqijiang/Auto-GPT-ZH)
+
+
+## LLM related application papers 
+- [A Survey on Large Language Models for Recommendation](https://arxiv.org/pdf/2305.19860v2.pdf)
+- [Pre-train, Prompt, and Predict: A Systematic Survey of Prompting Methods in Natural Language Processing](https://dl.acm.org/doi/pdf/10.1145/3560815)
