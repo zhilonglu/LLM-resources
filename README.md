@@ -17,6 +17,7 @@ all related resources about LLM，pretraining，finetuning，and data preparatio
 - [dolly](https://github.com/databrickslabs/dolly)
 - [pdfGPT](https://github.com/bhaskatripathi/pdfGPT)
 - [Auto-GPT-ZH](https://github.com/kaqijiang/Auto-GPT-ZH)
+- [open-chat-video-editor](https://github.com/SCUTlihaoyu/open-chat-video-editor)
 
 
 ## survey
