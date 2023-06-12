@@ -19,6 +19,9 @@ all related resources about LLM，pretraining，finetuning，and data preparatio
 - [Auto-GPT-ZH](https://github.com/kaqijiang/Auto-GPT-ZH)
 
 
+## survey
+- [A Survey of Large Language Models](https://github.com/RUCAIBox/LLMSurvey)
+
 ## LLM related application papers 
 - [A Survey on Large Language Models for Recommendation](https://arxiv.org/pdf/2305.19860v2.pdf)
 - [Pre-train, Prompt, and Predict: A Systematic Survey of Prompting Methods in Natural Language Processing](https://dl.acm.org/doi/pdf/10.1145/3560815)
