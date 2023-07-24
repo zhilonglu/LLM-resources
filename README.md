@@ -31,3 +31,7 @@ all related resources about LLM，pretraining，finetuning，and data preparatio
 
 ## Prompt Related
 - [promptsource](https://github.com/bigscience-workshop/promptsource)
+
+## Open Awesome Resources
+- [Awesome-Chinese-LLM](https://github.com/HqWu-HITCS/Awesome-Chinese-LLM)
+- [Awesome Pretrained Chinese NLP Models](https://github.com/lonePatient/awesome-pretrained-chinese-nlp-models)
