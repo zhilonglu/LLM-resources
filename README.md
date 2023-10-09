@@ -25,6 +25,7 @@ all related resources about LLM，pretraining，finetuning，and data preparatio
 - [A Survey of Large Language Models](https://github.com/RUCAIBox/LLMSurvey)
 - [LLMs evaluation](https://github.com/MLGroupJLU/LLM-eval-survey)
 - [llm-hallucination-survey](https://github.com/HillZhang1999/llm-hallucination-survey)
+- [LLM-Agent-Paper-List](https://github.com/WooooDyy/LLM-Agent-Paper-List)
 
 ## LLM related application papers 
 - [A Survey on Large Language Models for Recommendation](https://arxiv.org/pdf/2305.19860v2.pdf)
