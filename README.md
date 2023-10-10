@@ -40,7 +40,6 @@ all related resources about LLM，pretraining，finetuning，and data preparatio
 - [Awesome Pretrained Chinese NLP Models](https://github.com/lonePatient/awesome-pretrained-chinese-nlp-models)
 
 
-
 ## LLM and KG
 - [KG-LLM-Papers](https://github.com/zjukg/KG-LLM-Papers)
 - [Awesome-LLM-KG](https://github.com/RManLuo/Awesome-LLM-KG)
