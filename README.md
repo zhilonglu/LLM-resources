@@ -44,3 +44,7 @@ all related resources about LLM，pretraining，finetuning，and data preparatio
 ## LLM and KG
 - [KG-LLM-Papers](https://github.com/zjukg/KG-LLM-Papers)
 - [Awesome-LLM-KG](https://github.com/RManLuo/Awesome-LLM-KG)
+
+## SFT
+- [中文大模型微调](https://github.com/yongzhuo/LLM-SFT)
+- [Fine-tuning ChatGLM-6B with PEFT](https://github.com/hiyouga/ChatGLM-Efficient-Tuning)
