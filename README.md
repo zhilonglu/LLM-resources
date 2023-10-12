@@ -50,3 +50,6 @@ all related resources about LLM，pretraining，finetuning，and data preparatio
 - [Llama2-SFT](https://github.com/yongzhuo/Llama2-SFT)
 - [InternLM-SFT](https://github.com/yongzhuo/InternLM-SFT)
 - [Qwen-SFT](https://github.com/yongzhuo/Qwen-SFT)
+
+## Model Editing
+-[Knowledge Editing for LLMs Papers](https://github.com/zjunlp/KnowledgeEditingPapers)
