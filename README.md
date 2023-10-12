@@ -52,4 +52,6 @@ all related resources about LLM，pretraining，finetuning，and data preparatio
 - [Qwen-SFT](https://github.com/yongzhuo/Qwen-SFT)
 
 ## Model Editing
--[Knowledge Editing for LLMs Papers](https://github.com/zjunlp/KnowledgeEditingPapers)
+- [Knowledge Editing for LLMs Papers](https://github.com/zjunlp/KnowledgeEditingPapers)
+- [ConCoRD: Consistency Correction through Relation Detection](https://github.com/eric-mitchell/concord)
+- [Semi-Parametric Editing with a Retrieval-Augmented Counterfactual Model](https://github.com/eric-mitchell/serac)
