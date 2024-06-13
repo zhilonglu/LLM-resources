@@ -59,3 +59,6 @@ all related resources about LLM，pretraining，finetuning，and data preparatio
 
 ## NL2Code
 - [NL2Code](https://nl2code.github.io/)
+
+## LLM for finance
+- [FinRobot](https://github.com/AI4Finance-Foundation/FinRobot)
