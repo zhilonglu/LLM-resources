@@ -62,3 +62,16 @@ all related resources about LLM，pretraining，finetuning，and data preparatio
 
 ## LLM for finance
 - [FinRobot](https://github.com/AI4Finance-Foundation/FinRobot)
+
+## LLM catastrophic Forgetting
+- [An Empirical Study of Catastrophic Forgetting in Large Language Models During Continual Fine-tuning](https://arxiv.org/pdf/2308.08747)
+- [LEARNING TO LEARN WITHOUT FORGETTING BY MAXIMIZING TRANSFER AND MINIMIZING INTERFERENCE](https://arxiv.org/pdf/1810.11910)
+- [Investigating Forgetting in Pre-Trained Representations Through Continual Learning](https://arxiv.org/pdf/2305.05968)
+- [PRETRAINED LANGUAGE MODEL IN CONTINUAL LEARNING: A COMPARATIVE STUDY](https://openreview.net/pdf?id=figzpGMrdD)
+- [Probing Representation Forgetting in Supervised and Unsupervised Continual Learning](https://arxiv.org/pdf/2203.13381)
+- [Mitigating Catastrophic Forgetting in Task-Incremental Continual Learning with Adaptive Classification Criterion](https://arxiv.org/pdf/2305.12270)
+- [AdaPrompt: Adaptive Model Training for Prompt-based NLP](https://arxiv.org/pdf/2202.04824)
+- [Continual Training of Language Models for Few-Shot Learning](https://arxiv.org/pdf/2210.05549)
+- [Dark Experience for General Continual Learning: a Strong, Simple Baseline](https://arxiv.org/pdf/2004.07211)
+- 
+- 
