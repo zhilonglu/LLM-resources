@@ -20,6 +20,8 @@ all related resources about LLM，pretraining，finetuning，and data preparatio
 - [Auto-GPT-ZH](https://github.com/kaqijiang/Auto-GPT-ZH)
 - [open-chat-video-editor](https://github.com/SCUTlihaoyu/open-chat-video-editor)
 
+## Related GitHub
+- [LMOps](https://github.com/microsoft/LMOps)
 
 ## Survey
 - [A Survey of Large Language Models](https://github.com/RUCAIBox/LLMSurvey)
