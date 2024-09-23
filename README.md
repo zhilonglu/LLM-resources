@@ -77,3 +77,6 @@ all related resources about LLM，pretraining，finetuning，and data preparatio
 - [Dark Experience for General Continual Learning: a Strong, Simple Baseline](https://arxiv.org/pdf/2004.07211)
 - 
 - 
+## LLM related data
+- [MNBVC(Massive Never-ending BT Vast Chinese corpus)超大规模中文语料集](https://github.com/esbatmop/MNBVC)
+- 
