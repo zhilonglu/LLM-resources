@@ -79,4 +79,4 @@ all related resources about LLM，pretraining，finetuning，and data preparatio
 - 
 ## LLM related data
 - [MNBVC(Massive Never-ending BT Vast Chinese corpus)超大规模中文语料集](https://github.com/esbatmop/MNBVC)
-- 
+- [中文医疗问答数据集](https://github.com/Toyhom/Chinese-medical-dialogue-data)
