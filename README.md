@@ -41,6 +41,7 @@ all related resources about LLM，pretraining，finetuning，and data preparatio
 ## Open Awesome Resources
 - [Awesome-Chinese-LLM](https://github.com/HqWu-HITCS/Awesome-Chinese-LLM)
 - [Awesome Pretrained Chinese NLP Models](https://github.com/lonePatient/awesome-pretrained-chinese-nlp-models)
+- [Awesome-LLM-Inference](https://github.com/DefTruth/Awesome-LLM-Inference?tab=readme-ov-file)
 
 
 ## LLM and KG
